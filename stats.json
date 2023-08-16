@@ -5,7 +5,7 @@
     "totalCode": 139,
     "coded": 21,
     "bugs": 11,
-    "bugfixes": 10 
+    "bugFixes": 10 
   },
   "YulRPG": {
     "totalCommands": 4,
