@@ -1,11 +1,11 @@
 {
     "YulBotV14": {
-      "totalCommands": 17,
-      "updatedCommands": 2,
+      "totalCommands": 12,
+      "updatedCommands": 3,
       "totalCode": 88,
-      "coded": 8,
-      "bugs": 1,
-      "bugFixes": 1 
+      "coded": 17,
+      "bugs": 3,
+      "bugFixes": 3 
     },
     "YulRPG": {
       "totalCommands": 4,
